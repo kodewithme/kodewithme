@@ -18,12 +18,12 @@ Full-stack developer with 7 years of experience building high-performance, scala
 
 ### 🖥️ Frontend (Web)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+<!-- ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) -->
+<!-- ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) -->
 <!-- ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat&logo=nuxt.js&logoColor=white) -->
 <!-- ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white) -->
 <!-- ![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=flat) -->
@@ -37,12 +37,12 @@ Full-stack developer with 7 years of experience building high-performance, scala
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat)
-![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+<!-- ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-00ADD8?style=flat)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat) -->
 <!-- ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) -->
 <!-- ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white) -->
 <!-- ![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat&logo=symfony&logoColor=white) -->
@@ -89,13 +89,13 @@ Full-stack developer with 7 years of experience building high-performance, scala
 <!-- ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=flat&logo=mocha&logoColor=white)
 ![Chai](https://img.shields.io/badge/Chai-A30701?style=flat) -->
 
-### 🔐 Security
+<!-- ### 🔐 Security
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2-2F2F2F?style=flat)
 ![CORS](https://img.shields.io/badge/CORS-FF6C37?style=flat)
-<!-- ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white) -->
-<!-- ![HTTPS](https://img.shields.io/badge/HTTPS-0078D4?style=flat) -->
-<!-- ![CSRF](https://img.shields.io/badge/CSRF_Prevention-6A0DAD?style=flat) -->
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat&logo=owasp&logoColor=white)
+![HTTPS](https://img.shields.io/badge/HTTPS-0078D4?style=flat)
+![CSRF](https://img.shields.io/badge/CSRF_Prevention-6A0DAD?style=flat) -->
 
 ### ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -116,17 +116,6 @@ Full-stack developer with 7 years of experience building high-performance, scala
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21F?style=flat&logo=huggingface&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) -->
-
----
-
-## 📫 Let's Connect
-
-Got a project or want to collaborate? Feel free to reach out:
-
-📧 kosukekobayashi.dev@gmail.com  
-🌐 [Portfolio Website](https://kosuke-kobayashi.vercel.app)  
-🔗 [LinkedIn](https://www.linkedin.com/in/kobayashi-kosuke-659865358)  
-💬 [Telegram](https://t.me/kawaiiiscute)
 
 ---
 
