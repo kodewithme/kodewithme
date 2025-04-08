@@ -120,3 +120,12 @@ Full-stack developer with 7 years of experience building high-performance, scala
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ZxBing0066&title=-Reviews)](https://github-profile-trophy.vercel.app/?username=ZxBing0066&title=-Reviews#gh-light-mode-only)
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ZxBing0066&title=-Reviews&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ZxBing0066&title=-Reviews&theme=onedark#gh-dark-mode-only)
+
+![GitHub Snake Light](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
