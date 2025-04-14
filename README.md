@@ -1,7 +1,7 @@
 # 👋 Kosuke Kobayashi
 
 ### 🚀 Full-Stack Developer | JavaScript | TypeScript | Golang | Python  
-📍 Nagoya, Japan | 📧 kosukekobayashi.dev@gmail.com  
+📍 Gdańsk, Poland | 📧 kosukekobayashi.dev@gmail.com  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white)](https://www.linkedin.com/in/kobayashi-kosuke-659865358)  
 [![Developer Program](https://img.shields.io/badge/GitHub%20Developer%20Program-Member-7B61FF?style=flat&logo=github)](https://github.com/kodewithme)
