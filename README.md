@@ -76,6 +76,15 @@ I thrive on solving real-world problems using pragmatic architecture, modern ful
 
 ---
 
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ZxBing0066&title=-Reviews)](https://github-profile-trophy.vercel.app/?username=ZxBing0066&title=-Reviews#gh-light-mode-only)
+
+[![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ZxBing0066&title=-Reviews&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ZxBing0066&title=-Reviews&theme=onedark#gh-dark-mode-only)
+
+![GitHub Snake Light](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/zxbing0066/zxbing0066/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+---
+
 > _Write code that matters. Ship what lasts._  
 >  **@kodewithme**
 
