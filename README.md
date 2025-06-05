@@ -67,15 +67,6 @@ I thrive on solving real-world problems using pragmatic architecture, modern ful
 
 ---
 
-##  GitHub Stats
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=kodewithme&theme=darkhub&no-frame=true&margin-w=10)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kodewithme&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kodewithme&layout=compact&theme=tokyonight)
-
----
-
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ZxBing0066&title=-Reviews)](https://github-profile-trophy.vercel.app/?username=ZxBing0066&title=-Reviews#gh-light-mode-only)
 
 [![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=ZxBing0066&title=-Reviews&theme=onedark)](https://github-profile-trophy.vercel.app/?username=ZxBing0066&title=-Reviews&theme=onedark#gh-dark-mode-only)
